@@ -39,5 +39,5 @@ The results section in the notebook discusses the accuracy of the model and prov
 This project demonstrates a basic application of linear regression to a real-world problem. Future enhancements can include more complex models and additional features to improve prediction accuracy.
 
 ## Contact
-For any further questions or contributions, feel free to contact the repository maintainer at [your-email@example.com](mailto:your-email@example.com).
+For any further questions or contributions, feel free to contact the repository maintainer at [tarq2000@gmail.com](mailto:tarq2000@gmail.com).
 
